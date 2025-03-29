@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guyycodes.github.io/Bernie-Sanders-Biography-Policies-Funding-Impact/sitemap.xml
